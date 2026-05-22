@@ -5,6 +5,14 @@
 }
 
 body {
+  cursor: url('https://cur.cursors-4u.net/cursors/cur-11/cur1054.cur'), auto;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+body {
   background: #09090d;
   color: #f3f3f7;
   font-family: 'Inter', sans-serif;
